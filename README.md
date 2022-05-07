@@ -1,9 +1,14 @@
 # movie_list
 
 > 소개
-> 멋쟁이 사자처림 프론트엔드스쿨2기 영화페이지 클론코딩을 SASS를 연습하기 위해 style설정을 SASS로만 구현했습니다.
+ 
+멋쟁이 사자처림 프론트엔드스쿨2기 영화페이지 클론코딩을 SASS를 연습하기 위해 style설정을 SASS로만 구현했습니다.
+
 > 프로젝트 이미지
+<img src="img/구현화면.png">
+
 > 프로젝트 주소
+https://hun-se.github.io/jungle-cinema/
 
 </br>
 
