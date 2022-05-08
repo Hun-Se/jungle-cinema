@@ -1,4 +1,4 @@
-# movie_list
+# jungle-cinema
 
 > 소개
  
